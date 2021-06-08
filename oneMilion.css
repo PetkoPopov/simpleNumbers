@@ -1,0 +1,20 @@
+body{
+    background-color: rgb(198, 210, 30);
+}
+div{
+
+    border:brown solid 3px;
+    background-color: aquamarine;
+}
+#showRezult{
+    display: flex;
+    flex-flow: wrap;
+
+}
+div div{
+    width:55px ;
+    height: auto;
+}
+button{
+    background-color: chartreuse;
+}
