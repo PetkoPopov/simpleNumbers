@@ -2,6 +2,7 @@
 
 require_once './index.php';
 $i=1;
+//kk
 $two = -1 ;
 $counter =0 ;
 while($counter != $n  ){
